@@ -1,30 +1,27 @@
 ## Hello! I am Marllon Rodrigues
 
-- 🔭 I'm currently working on industrial automation
-- 🌱 I’m currently learning Java and SQL Server
+- 🔭 I'm currently working on Industrial Automation
+- 🌱 I’m currently learning Java, SQL Server and React
 
-name: Generate Datas
+<div>
+  <a href="https://github.com/RodriguesMarllon">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodriguesMarllon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriguesMarllon&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Marllon-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Marllon-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Marllon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
 
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+##
 
-jobs:
-  build:
-    name: Jobs to update datas
-    runs-on: ubuntu-latest
-    steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: rafaballerini
-          svg_out_path: dist/github-contribution-grid-snake.svg
+<div>
+  <a href="mailto:marllonrsantos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"       
+  target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/rodriguesmarllon/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<!--
+![Snake animation](https://github.com/RodriguesMarllon/RodriguesMarllon/blob/output/github-contribution-grid-snake.svg)
+-->
