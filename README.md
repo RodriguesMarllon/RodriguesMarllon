@@ -1,7 +1,7 @@
 ## Hello! I am Marllon Rodrigues
 
 - 🔭 I'm currently working on Industrial Automation
-- 🌱 I’m currently learning Java, SQL Server and React
+- 🌱 I’m currently learning Java and SQL Server
 
 <div>
   <a href="https://github.com/RodriguesMarllon">
