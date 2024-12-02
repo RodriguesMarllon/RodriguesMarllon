@@ -1,7 +1,7 @@
 ## Hello! I am Marllon Rodrigues
 
 - 🔭 I'm currently working as a .NET Developer
-- 🌱 I’m currently learning C#, .NET and Python
+- 🌱 I’m currently learning .NET, DDD (Domain Driven Design) and Python
 
 <div> 
   <a href="https://github.com/RodriguesMarllon"> 
